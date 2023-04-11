@@ -1,5 +1,9 @@
 Try Frammer Motion
 
+Techstack :
+ - Next JS
+ - Frammer Motion
+
 ## Getting Started
 
 First, run the development server:
